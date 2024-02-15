@@ -1,0 +1,24 @@
+			Task For Today
+
+1)  what is Object and class?
+2) what is identifiers in java how many types of this?
+3) what is package and import in java ?
+4) What is variables in java just defination not types?
+5) What is Methods in java?
+6) what is public static void main(String[] args) in java
+7) what is comments in java?
+8) HOW java code Run or excuted define this by step by step?
+
+
+
+
+Program to Do
+print your details in java program
+
+
+
+
+
+
+'
+'					

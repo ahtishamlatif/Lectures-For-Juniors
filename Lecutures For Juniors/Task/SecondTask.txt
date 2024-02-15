@@ -1,0 +1,23 @@
+			Task For Today
+
+1) What is OOP? Features Of OOP? .Need Of OOP? With Examples
+2) what is need for Object oriented  Development?
+
+3) Define OOA,OOD & OOP with deeply?
+4) Define 6 Main Pillars of OOP  with examples?
+5) Java Need ? Features Of Java & also Define MultiThread and Java is Multithread or not?
+6) How Java is Independent for PlateForm?
+7) What is Jvm?
+8) How java Code Run?
+9) Difference b/w Jre And JDK?
+ 
+
+
+
+
+
+
+
+
+'
+'					

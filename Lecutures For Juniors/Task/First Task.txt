@@ -1,0 +1,19 @@
+			Task For Today
+
+1)    How to convert ka Number  in Binary form?
+2) what is Machine Language & how Computer understands it?
+3) How to data is stored in Computer & where Data is  firstly Stored  ?
+4) What is Memory Address?
+5) What is Ascii Code And its Stands For?(Deep)
+6) Define Machine Assembly And High Level Languages? with Each Two Examples.
+
+
+
+
+
+
+
+
+
+'
+'					
